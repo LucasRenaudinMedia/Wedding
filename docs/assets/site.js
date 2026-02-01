@@ -40,7 +40,8 @@ const CONFIG = {
     phone: "06.74.06.50.52",
   },
   notes: [
-    "Parking disponible sur place.",
+    "Pas de dress code, tant que vous venez avec votre sourire, tout est parfait.",
+    "Parkings disponibles à proximité du Domaine du Pré.",
   ],
 };
 
