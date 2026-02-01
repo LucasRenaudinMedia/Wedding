@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+
+    <!-- Anti-indexation -->
+    <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
+    <meta name="googlebot" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
+    <meta name="bingbot" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
+
+    <title>Infos mariage</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Montserrat:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-content">
+        <p class="subtitle">Bienvenue à notre mariage</p>
+        <h1 class="hero-title" id="couple">Lucas &amp; Charline</h1>
+        <p class="date"><span id="dateText">2 mai 2026</span></p>
+        <a href="#infos" class="btn-primary">Découvrir</a>
+      </div>
+    </header>
+
+    <!-- INFOS -->
+    <section id="infos" class="section">
+      <div class="section-inner">
+        <div class="story">
+          <div id="story"></div>
+        </div>
+
+        <h2 class="section-title spaced">Mariage - 02 mai 2026</h2>
+        <ul class="timeline" id="schedule"></ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-inner">
+        <h2 class="section-title">Retour de noces - 03 mai 2026</h2>
+        <ul class="timeline" id="return"></ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-inner">
+        <h2 class="section-title">Adresses</h2>
+        <div class="practical" id="practical"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-inner">
+        <h2 class="section-title">Infos pratiques</h2>
+        <ul class="list" id="notes"></ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-inner">
+        <h2 class="section-title">Contact</h2>
+        <div class="contact" id="contact"></div>
+      </div>
+    </section>
+
+
+    <div class="footer">
+      Cette page est conçue pour ne pas être indexée, mais l’accès reste public si quelqu’un a le lien.
+    </div>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="assets/site.js"></script>
+  </body>
+</html>
