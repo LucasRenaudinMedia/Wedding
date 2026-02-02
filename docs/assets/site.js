@@ -13,6 +13,7 @@ const CONFIG = {
     { time: "-", text: "Puis, nous vous attendons au Domaine du Pré pour la suite de l’aventure." },
     { time: "17h00", text: "Vin d'honneur et cocktail" },
     { time: "19h00", text: "Entrée dans la salle de réception" },
+    { time: "22h30/23h", text: "Ouverture du bal" },
   ],
   return: [
     { time: "12h00", text: "Retour de noces au Domaine du Pré." },
@@ -41,7 +42,7 @@ const CONFIG = {
   },
   notes: [
     "Pas de dress code, tant que vous venez avec votre sourire, tout est parfait !",
-    "Nous vous conseillons de vous garer plutôt près de l’église, car un cortège à pied est prévu entre la mairie et l’église.",
+    "Nous vous conseillons de vous garer plutôt près de l’église, car un cortège à pied partira de la mairie vers l’église.",
     "Possibilité de stationner et dormir en camping-car sur le parking situé à côté du Domaine du Pré.",
   ],
 };
