@@ -42,7 +42,7 @@ const CONFIG = {
   notes: [
     "Pas de dress code, tant que vous venez avec votre sourire, tout est parfait !",
     "Nous vous conseillons de vous garer plutôt près de l’église, car un cortège à pied est prévu entre la mairie et l’église.",
-    "Possibilité de stationner et dormir en camping-car sur le parking situé à côté du Domaine du Pré."
+    "Possibilité de stationner et dormir en camping-car sur le parking situé à côté du Domaine du Pré.",
   ],
 };
 
