@@ -1,4 +1,4 @@
-const CONFIG = {
+⁹const CONFIG = {
   couple: "Lucas & Charline",
   title: "Infos mariage",
   dateText: "02 mai 2026",
@@ -41,7 +41,7 @@ const CONFIG = {
     phone: "06.74.06.50.52",
   },
   notes: [
-    "Pas de dress code, tant que vous venez avec votre sourire, tout est parfait !!!",
+    "Pas de dress code, tant que vous venez avec votre sourire, tout est parfait !",
     "Nous vous conseillons de vous garer plutôt près de l’église, car un cortège à pied partira de la mairie vers l’église.",
     "Possibilité de stationner et dormir en camping-car sur le parking situé à côté du Domaine du Pré.",
   ],
