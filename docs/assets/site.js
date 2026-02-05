@@ -37,7 +37,7 @@
   ],
   contact: {
     names: "Charline & Lucas",
-    addressLines: ["1 rue du FOC", "85800 St Gilles Croix de Vie"],
+    addressLines: ["1 rue du Foc", "85800 Saint Gilles Croix de Vie"],
     phone: "06.74.06.50.52",
   },
   notes: [
